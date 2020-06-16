@@ -1,1 +1,1 @@
-web: gunicorn stock_product:app
+web: gunicorn stock_product_noretrain:app
