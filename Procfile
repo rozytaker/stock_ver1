@@ -1,1 +1,1 @@
-web: gunicorn lstm_app2:app
+web: gunicorn stock_product:app
