@@ -10,6 +10,6 @@ scikit-learn>=0.18
 pandas>=0.19
 flask_restplus
 flask_cors
-tensorflow==2.0.0
+tensorflow==2.3.1
 pandas_datareader
 yfinance==0.1.54
